@@ -51,7 +51,7 @@ video {
 <script src="webOSTVjs-1.2.4/webOSTV.js" charset="utf-8"></script>
 <script src="webOSTVjs-1.2.4/webOSTV-dev.js" charset="utf-8"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/shaka-player/3.2.0/shaka-player.compiled.js"></script>
-      <script src="https://issigo.herokuapp.com/shaka-issi.js"></script>
+      <script src="https://https://calm-pear-anemone-fez.cyclic.app/shaka-issi.js"></script>
 <script type="text/javascript">
 	//sample code for calling LS2 API
 	webOS.service.request("luna://com.palm.systemservice", {
